@@ -1,1 +1,1 @@
-[FBAN/FBIOS;FBAV/314.0.0.78.94;FBBV/546111366;FBRV/0;FBPN/com.facebook.orca;FBLC/pt_PT;FBMF/Samsung;FBBD/Samsung;FBDV/Samsung Galaxy Quantum 4;FBSV/15;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FBIOS;FBAV/338.0.0.42.25;FBBV/931022339;FBRV/0;FBPN/com.facebook.orca;FBLC/ro_RO;FBMF/Samsung;FBBD/Samsung;FBDV/Samsung Galaxy Quantum 4;FBSV/15;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
